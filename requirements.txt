@@ -1,0 +1,12 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.2.2+cpu
+langgraph==0.2.70
+langchain==0.3.19
+langchain-groq==0.2.4
+langchain-core==0.3.41
+chromadb==0.6.3
+groq==0.15.0
+typing_extensions>=4.0.0
+sentence-transformers==3.4.1
+fastapi==0.115.0
+uvicorn==0.30.0
